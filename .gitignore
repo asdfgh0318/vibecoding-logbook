@@ -1,0 +1,20 @@
+# Personal logs (not shared)
+WORK_LOGS
+archive/
+
+# Trash (old logging system)
+days/
+screenshots/
+index.md
+session-logger.sh
+
+# Personal files
+doom-cheatsheet.org
+
+# Project subfolders (have own git repos)
+adam_laptop/
+bdmenu_ada/
+settings-tools/
+symulator_fpv/
+suspend_macbook/
+zegarek_google/
